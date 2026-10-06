@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Redteam run artifacts
+chatbot/logs/
+chatbot/.cache/
+*.jsonl
